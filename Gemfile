@@ -1,3 +1,4 @@
-source "https://rubygems.org"
-gem "appium_lib"
-gem "rspec"
+source 'https://rubygems.org'
+gem 'appium_lib'
+gem 'rspec'
+gem 'pry'

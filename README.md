@@ -1,6 +1,7 @@
 # test-protect-rspec
 
 ### structure
+```
 test-protect-rspec/
 ├── apps/ - temporary location for apps
 ├── config/ - all config files use YAML format
@@ -11,6 +12,7 @@ test-protect-rspec/
 │       ├── screens/
 │       └── steps/
 └── spec/ - rspec, tests and helper clases
+```
 
 ### run ios
 export DEVICE_CONFIG='config/devices/iphone_sim.yml'
